@@ -1,0 +1,32 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "index.android.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch-http-client": "^1.0.1",
+    "leancloud-storage": "^2.1.1",
+    "react": "^15.4.2",
+    "react-native": "^0.41.2",
+    "react-native-encryption-library": "^1.0.9",
+    "react-native-parallax-scroll-view": "^0.19.0",
+    "react-native-root-toast": "^1.0.3",
+    "react-native-scrollable-tab-view": "^0.7.2",
+    "react-native-storage": "^0.1.5",
+    "react-native-tab-navigator": "^0.3.3",
+    "react-native-vector-icons": "^4.0.0",
+    "react-native-wechat": "^1.8.0",
+    "react-native-wechat-android": "^2.0.1",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "redux-persist": "^4.4.0",
+    "redux-thunk": "^2.2.0",
+    "rn-viewpager": "^1.1.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
